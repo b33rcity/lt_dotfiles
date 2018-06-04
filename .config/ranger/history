@@ -1,0 +1,28 @@
+set preview_fili
+set preview_files=true
+set borders=false
+set border=false
+set draw_borders=false
+set draw_borders=true
+set preview_images=true
+set preview_images_method=terminology
+preview_images
+
+open_with zathu
+open_with zathura
+delete 
+del
+delete
+open_with 
+r
+root
+help
+sudo cd /root
+cd /root
+ls
+zc
+q
+rename 
+rename 12660234jpg
+rename 1236749.jpg
+mkdir
