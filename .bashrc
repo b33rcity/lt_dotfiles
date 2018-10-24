@@ -10,8 +10,8 @@ set -o emacs
 # This is the directory where RTV lives. We're checking for existence
 # because I'm known to run `source .bashrc` several times a session and
 # I'd rather than $PATH stay relatively clean. 
-if [[ $(echo $PATH | grep '/home/dallas/\.local/bin') != 0 ]]; then
-    export PATH="${PATH}:/home/dallas/.local/bin"
+if [[ $(echo $PATH | grep '/home/#/\.local/bin') != 0 ]]; then
+    export PATH="${PATH}:/home/#/.local/bin"
 fi
 
 # Set some useful aliases
